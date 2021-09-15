@@ -89,7 +89,7 @@
                         </li>
 
                         <li>2002-2004 Electronics and Software Engineer Degree (
-                            <a href="https://www.linuxjournal.com/article/7258">Final Work: Building Automation Platform</a>).  
+                            <a href="https://www.linuxjournal.com/article/7258" target="_blank">Final Work: Building Automation Platform</a>).  
                             Catholic University of Asunción-Paraguay 
                         </li>
                         <li>January 2008-July 2009 Master in Business Administration. 
