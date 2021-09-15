@@ -79,7 +79,8 @@ fieldset {
 }
 #innovationProjects .card{
     margin-right: 50px;
-    height: 650px;
+    height: auto;
+    padding-bottom: 30px;
     margin: auto;
 }
 
