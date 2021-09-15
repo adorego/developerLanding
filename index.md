@@ -215,7 +215,7 @@
                 <p>
                     As a Head of Product I defined, specified and rolled-out the Company products/services in three coutries (USA, El Salvador, Haiti) 
                 </p>
-                <h3>In Millicom I've been awarded with 2010 Innovation Group Award in Sweden</h3>
+                <h3>In Millicom I've been awarded with 2010 Innovation Group Award in Stockholm-Sweden</h3>
                 <li>(2010-2012) Africa Reginal Product/ Program Manager - MIC Millicom International(<a href="https://millicom.com" target="_blank">Millicom</a></li>
                 <p>Based in Ghana-Africa, I was responsible for the Program/Product Management of 7 Countries</p>
                 <li>(2008-2010) Global Product/ Program Manager- MIC Millicom International(<a href="https://millicom.com" target="_blank">Millicom</a></li>
