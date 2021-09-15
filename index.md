@@ -84,7 +84,7 @@
                     <fieldset>
                         <legend>Education</legend>
                         <ul>
-                        <li>1994-2001 Bachelor of Science in Computer Electronics and Telecommunications. 
+                        <li>1995-2001 Bachelor of Science in Computer Electronics and Telecommunications. 
                             Catholic University of Asunción-Paraguay. 
                         </li>
 
@@ -213,7 +213,7 @@
                 </p>
                 <li>(2012-2017) Head of Product - APVAS(<a href="http://apvas.com" target="_blank">APVAS Telecom Value Added Service Provider</a>) - Miami Florida</li>
                 <p>
-                    As a Head of Product I defined, specified and rolled-out the Company products/services in three coutries (USA, El Salvador, Haiti) 
+                    As a Head of Product I defined, specified and rolled-out the Company products/services in three countries (USA, El Salvador, Haiti) 
                 </p>
                 <h3>In Millicom I've been awarded with 2010 Innovation Group Award in Stockholm-Sweden</h3>
                 <li>(2010-2012) Africa Reginal Product/ Program Manager - MIC Millicom International(<a href="https://millicom.com" target="_blank">Millicom</a>)</li>
