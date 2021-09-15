@@ -1,0 +1,156 @@
+body{
+    font-family: Open Sans;
+} 
+nav{
+    background-color:#999999;
+    min-height: 80px;
+}
+#menu_icon{
+    font-size: 28px;
+
+}
+#main{
+    margin-top: 30px;
+}
+
+#main_container > a{
+    margin-top: 30px;
+    min-height: 40px;
+    width: 80%;
+}
+
+@media only screen and (min-width:992px) {
+     #main_container > a{
+         width: 40%;
+     }
+     .nav-link{
+         font-size: 24px;
+         padding-right: 60px !important;
+     }   
+}
+
+
+#personal_picture{
+    max-width: 250px;
+}
+
+#main_container{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+/********Profile **************/
+#profile{
+    height: auto;
+    margin-top: 30px;
+}
+
+fieldset {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/********Innovation Projects **************/
+#innovationProjects{
+    padding-top: 30px;
+    background-color: #999999;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    
+}
+
+@media only screen and  (max-width:576px){
+    #innovationProjects{
+        height: auto;
+        padding-bottom: 30px;
+    }
+}
+
+#innovations_cards{
+    margin-top: 30px;
+    height: auto;
+    padding-bottom: 30px;
+    align-items: center;
+
+}
+#innovations_cards a{
+    display: block;
+}
+#innovationProjects .card{
+    margin-right: 50px;
+    height: 650px;
+    margin: auto;
+}
+
+.pills{
+    border: 2px solid black;
+    border-radius: 20px;
+    min-width: 160px;
+    margin: 1px;
+}
+#innovationProjects .card-text{
+    margin-top: 20px;
+}
+
+.card_subtitle{
+    margin-top: 20px;
+    text-align: start;    
+
+}
+.metodology_title{
+    margin-top: 20px;
+    text-align: start;
+}
+
+/***************Experience********************/
+
+#experience{
+    margin-top: 30px;
+    height: auto;
+    padding-bottom: 30px;
+}
+
+#experience h4{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+#experience ul li{
+    text-align: start;
+}
+
+#certifications{
+    padding-top: 30px;
+    background-color: #999999;
+    height: auto;
+    padding-bottom: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+#certifications .card{
+    margin-bottom: 30px;
+    height: 380px;
+    
+}
+
+#certifications .card img{
+    margin-top: 30px !important;
+    max-width: 80%;
+    margin: auto;
+    
+}
+
+/*********************Contact********************/
+#contact{
+    text-align: center;
+    padding-top: 30px;
+    height: auto;
+    padding-bottom: 30px;
+}
+
+#contact a{
+    margin-top: 30px;
+    display: block;
+}
