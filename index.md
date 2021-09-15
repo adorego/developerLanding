@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:url"                content="https://adorego.github.io/landing/" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="Typescript/Javascript Software Engineer" />
+    <meta property="og:description"        content="Developer of Typescript/Javascript Web Software, React & Angular experience " />
+    <meta property="og:image"              content="https://adorego.github.io/landing/images/social_media_image.jpeg" />
     <link 
         href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
         rel="stylesheet" 
@@ -14,7 +19,8 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans" />
 
     <link rel="stylesheet" href="style.css">
-    <title>Andrés Do Rego Barros, Software Engineer</title>
+    <title>Andrés Do Rego Barros, Typescript/Javascript Software Engineer, React & Angular</title>
+
 </head>
 <body>
     <nav class="navbar navbar-dark navbar-expand-lg ">
