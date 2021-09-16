@@ -20,6 +20,15 @@
 
     <link rel="stylesheet" href="style.css">
     <title>Andrés Do Rego Barros, Typescript/Javascript Software Engineer, React & Angular</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H3LZN2RMY7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-H3LZN2RMY7');
+    </script>
 
 </head>
 <body>
